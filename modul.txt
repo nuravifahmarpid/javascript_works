@@ -1,0 +1,8 @@
+You'll find in this book:
+
+Chapter 1: Getting Started
+Chapter 2: The Basics
+Chapter 3: Compound Data Types
+Chapter 4: Conditionals and Loops
+Chapter 5: Functions
+Chapter 6: Classes
